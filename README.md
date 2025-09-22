@@ -75,6 +75,11 @@ You can also use the contact form on the portfolio website.
 
 ---
 
+## Live Demo
+
+Check out the deployed portfolio here: [View Portfolio](https://gconsultz.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)
+
+
 ## Acknowledgements
 
 This portfolio was created as part of an **assignment for the Web Development Foundation training**. Special thanks to the training instructors and the resources from [Unsplash](https://unsplash.com/) for project images.
