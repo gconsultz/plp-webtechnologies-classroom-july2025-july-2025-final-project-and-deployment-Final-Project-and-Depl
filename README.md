@@ -1,90 +1,84 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# G-Consultz Portfolio
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+![Portfolio Banner](images/week_7.jpg)
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+## Overview
 
----
-
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
-
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
+Welcome to **G-Consultz**, the personal portfolio of **Tijani Ridwan**, an aspiring frontend developer. This portfolio showcases projects and skills gained during the Web Development Foundation training (Weeks 1–8), covering **HTML5**, **CSS3**, **JavaScript**, and **Deployment**.
 
 ---
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+## Table of Contents
 
-Using your plan, begin building:
-
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
-
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+- [About](#about)
+- [Skills](#skills)
+- [Projects](#projects)
+- [Contact](#contact)
+- [Technologies](#technologies)
+- [Acknowledgements](#acknowledgements)
 
 ---
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+## About
 
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+I'm **Tijani Ridwan**, passionate about building elegant, responsive, and user-friendly websites. My journey through the Web Development Foundation training has strengthened my ability to create **clean, maintainable, and functional web applications**.
 
 ---
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
+## Skills
 
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-blue?style=flat)
 
 ---
 
-## Deliverables
+## Projects
 
-1. A GitHub repository containing:
+Here are the main projects completed during the 8-week training:
 
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+| Week | Project | Description |
+|------|---------|-------------|
+| 1 | HTML Basics | Structured simple web pages with semantic HTML5. |
+| 2 | CSS Styling | Applied styles, colors, and layouts using CSS3. |
+| 3 | JavaScript Basics | Learned DOM manipulation and basic interactivity. |
+| 4 | Responsive Design | Built responsive layouts with media queries. |
+| 5 | Advanced CSS | Explored Flexbox, Grid, and CSS animations. |
+| 6 | Forms & Validation | Implemented interactive forms with JS validation. |
+| 7 | Portfolio Setup | Created a multipage site structure for portfolio. |
+| 8 | Deployment | Deployed projects using GitHub Pages/Netlify. |
+
+*All project images are included in the `assets/images` folder.*
 
 ---
 
-## Outcome
+## Contact
 
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+Feel free to reach out:
+
+- **GitHub:** [https://github.com/gconsultz](https://github.com/gconsultz)
+- **Email:** [tijanioluwaseun26@gmail.com](mailto:tijanioluwaseun26@gmail.com)
+
+You can also use the contact form on the portfolio website.
+
+---
+
+## Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-blue?style=flat)
+
+---
+
+## Acknowledgements
+
+This portfolio was created as part of an **assignment for the Web Development Foundation training**. Special thanks to the training instructors and the resources from [Unsplash](https://unsplash.com/) for project images.
+
+---
+
+*This project is open-source for educational purposes.*
